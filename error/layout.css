@@ -1,0 +1,40 @@
+body {
+	background-color: #0078d7;
+     }
+
+h1 {
+	color: white;
+	font-family: "Segoe UI", Helvetica, Arial;
+	font-size: 750%;
+	font-weight: normal;
+   }
+h2 {
+	color: white;
+	font-family: "Segoe UI", Helvetica, Arial;
+	font-size: 250%;
+	font-weight: normal;
+   }
+p {
+	color: white;
+	font-family: "Segoe UI", Helvetica, Arial;
+	font-size: 200%;
+  }
+#errtxt	{
+	font-family: "Segoe UI", Helvetica, Arial;
+	display: inline;
+	font-weight: lighter;
+	font-size: 150%;
+	padding-left: 1%;
+	margin-top: 50%;
+}
+img {
+	width: auto;
+	height: 25%;
+	float: left;
+    }
+div {
+	width: auto;
+	padding: 7%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+    }

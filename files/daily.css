@@ -1,0 +1,101 @@
+
+title{
+    color: white;
+    text-decoration: solid;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+}
+
+h4 {
+    color: white;
+    text-align: center;
+}
+
+h5 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    color: white;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #038686;
+}
+
+body {
+    background: #031f1f;
+    font-family: Verdana;
+}
+
+li {
+    color: white;
+}
+
+.h {
+    text-align: center;
+}
+
+.contact {
+    text-align: left;
+}
+
+.to-do {
+    text-align: center;
+}
+
+.button {
+    border-radius: 10px;
+    padding: 10px;
+    color: white;
+    background-color: rgba(0,0,0,0.3);
+    text-decoration: none;
+    animation: funhover .5s;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 50px;
+    background-color: #000000;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+}
+
+.info {
+    text-align: left;
+    color: white;
+    font-size: 20px;
+    line-height: 1.5;
+    margin-bottom: 30px;
+}
+
+.img-container {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+
